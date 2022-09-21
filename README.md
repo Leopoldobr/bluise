@@ -1,3 +1,10 @@
+
+result URL
+[https://superb-kitten-447ff4.netlify.app]
+
+hosting
+[https://app.netlify.com/sites/superb-kitten-447ff4/overview]
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
